@@ -1,2 +1,2 @@
-# SQL_Practice
-Practica con SQL
+# Code_Practice
+Practica con SQL, C, Java, ...
